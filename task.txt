@@ -1,0 +1,17 @@
+Subject area is a library.
+Tasks solved by the information system - accounting of the magazine fund.
+Data processing tasks:
+1. Create orderly lists:
+- Publications by rubrics;
+- New (for the last three years) publications (for magazines, years and authors);
+- Publications under "Databases" and DBMS;
+- Category No publications.
+2. Calculation:
+- Check if there is a magazine number for the requested article.
+3. Correction:
+- Changing the heading,
+- Changes to publication page numbers.
+4. Reports are:
+- "Publications": Article - Journal - Journal Number - Pages;
+- "Section of magazines": magazine - section name - number of publications;
+- "Number of issues": the name of the magazine - the year - the number of issues per year.
