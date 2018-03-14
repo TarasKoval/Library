@@ -4,6 +4,17 @@ The subject area is a library.
 
 Tasks solved by the information system - the accounting of the magazine fund.
 
+### Prerequisites
+
+MySql
+
+### Installing MySql
+
+```
+	sudo apt-get update
+	sudo apt-get install mysql-server
+```
+
 ## Data processing tasks:
 
 ### Create orderly lists:
@@ -34,17 +45,6 @@ Tasks solved by the information system - the accounting of the magazine fund.
 - "Publications": Article - Journal - Journal Number - Pages;
 - "Section of magazines": magazine - section name - the number of publications;
 - "Number of issues": the name of the magazine - the year - the number of issues per year.
-```
-
-### Prerequisites
-
-MySql
-
-### Installing MySql
-
-```
-	sudo apt-get update
-	sudo apt-get install mysql-server
 ```
 
 ## Author
