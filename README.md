@@ -4,11 +4,11 @@ The subject area is a library.
 
 Tasks solved by the information system - the accounting of the magazine fund.
 
-### Prerequisites
+## Prerequisites
 
 MySql
 
-### Installing MySql
+## Installing MySql
 
 ```
 	sudo apt-get update
