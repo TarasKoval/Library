@@ -1,12 +1,12 @@
-# Project Title
+# Library database
 
 The subject area is a library.
 
 Tasks solved by the information system - the accounting of the magazine fund.
 
-Data processing tasks:
+## Data processing tasks:
 
-## Create orderly lists:
+### Create orderly lists:
 
 ```
 - Publications by rubrics;
@@ -15,20 +15,20 @@ Data processing tasks:
 - Category No publications.
 ```
 
-## Calculation:
+### Calculation:
 
 ```
 - Check if there is a magazine number for the requested article.
 ```
 
-## Correction:
+### Correction:
 
 ```
 - Changing the heading,
 - Changes to publication page numbers.
 ```
 
-## Reports are:
+### Reports are:
 
 ```
 - "Publications": Article - Journal - Journal Number - Pages;
